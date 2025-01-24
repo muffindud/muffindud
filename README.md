@@ -1,7 +1,7 @@
 # Hello! I am Corneliu
 *Software Engineer*
 
-<div style="display: flex; justify-content: space-between;">
+<div>
     <div>
         <!--  -->
     </div>
@@ -11,7 +11,7 @@
 </div>
 
 ## Languages
-<div style="display: flex; justify-content: space-between;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="100">
@@ -21,7 +21,7 @@
 </div>
 
 ## Frameworks
-<div style="display: flex; justify-content: space-between;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg " alt="Arduino" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="100" height="100">
@@ -30,15 +30,15 @@
 </div>
 
 ## Tools
-<div style="display: flex; justify-content: space-between;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="100" height="100">
-</div style="display: flex; justify-content: space-between;">
+</div>
 
 ## Operating Systems
-<div style="display: flex; justify-content: space-between;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="100" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="100" height="100">
 </div>
